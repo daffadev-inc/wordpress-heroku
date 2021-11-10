@@ -3,7 +3,7 @@
 Project Information:
 Wordpress can be hosting at heroku. Expand cost 0$ a month, included WooCommerce inside.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/as-syariahbordir/wordpress-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/daffadev-inc/wordpress-heroku)
 
 ## Changelog
 
