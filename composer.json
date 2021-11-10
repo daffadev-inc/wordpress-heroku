@@ -3,7 +3,7 @@
   "type": "project",
   "license": "MIT",
   "description": "WordPress boilerplate woocommers with midtrans & xendit",
-  "homepage": "https://midtrans-tests.herokuapp.com/",
+  "homepage": "https://as-syariahbordir.herokuapp.com/",
   "keywords": [
 	"bedrock", "wordpress", "woocommerce", "stack", "composer", "heroku", "wp"
   ],
@@ -44,6 +44,7 @@
 	"wpackagist-plugin/woo-xendit-virtual-accounts":"2.24.1",
 	"wpackagist-plugin/ongkoskirim-id":"1.0.6",
 	"wpackagist-plugin/facebook-for-woocommerce":"2.5.1",
+        "wpackagist-plugin/google-site-kit":"dev-trunk",
 	"wpackagist-plugin/amazon-s3-and-cloudfront":"2.5.3",
 	"wpackagist-theme/wp-bootstrap-starter":"3.5.3",
 	"wpackagist-theme/ecommerce-zone":"0.3.9"
