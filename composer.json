@@ -40,7 +40,7 @@
 	"wpackagist-plugin/redis-cache": "1.3.5",
 	"wpackagist-plugin/debug-bar": "0.9",
 	"wpackagist-plugin/jetpack":"dev-trunk",
-	"wpackagist-plugin/midtrans-woocommerce":"2.22.0",
+	"wpackagist-plugin/midtrans-woocommerce":"dev-trunk",
 	"wpackagist-plugin/woo-xendit-virtual-accounts":"2.24.1",
 	"wpackagist-plugin/ongkoskirim-id":"1.0.6",
 	"wpackagist-plugin/facebook-for-woocommerce":"2.5.1",
