@@ -7,7 +7,7 @@ Wordpress can be hosting at heroku. Expand cost 0$ a month, included WooCommerce
 
 ## Changelog
 
-#### 0.3.1 (2021-11-11)
+#### 0.4.0 (2021-11-11)
 * WordPress 5.8.2
 
 #### 0.3.1 (2021-10-10)
