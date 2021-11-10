@@ -1,9 +1,9 @@
 {
-  "name": "as-syariahbordir/wordpress-heroku",
+  "name": "daffadev-inc/wordpress-heroku",
   "type": "project",
   "license": "MIT",
   "description": "WordPress boilerplate woocommers with midtrans & xendit",
-  "homepage": "https://as-syariahbordir.herokuapp.com/",
+  "homepage": "https://daffadev.herokuapp.com/",
   "keywords": [
 	"bedrock", "wordpress", "woocommerce", "stack", "composer", "heroku", "wp"
   ],
